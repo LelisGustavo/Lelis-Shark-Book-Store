@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+.text-color-dark-brown {
+    color: #5D3A00;
+}
+
+.bg-color-dark-brown {
+    background-color: #5D3A00;
+}
+
+.text-color-beige-light {
+    color: #F5E9DA;
+}
+
+.bg-color-beige-light {
+    background-color: #F5E9DA;
+}
+
+.text-color-terracotta {
+    color: #C37B42;
+}
+
+.bg-color-terracotta {
+    background-color: #C37B42;
+}
+
+.text-color-olive-green {
+    color: #7A8450;
+}
+
+.bg-color-olive-green {
+    background-color: #7A8450;
+}
+
+.text-color-ivory {
+    color: #FFF8F0;
+}
+
+.bg-color-ivory {
+    background-color: #FFF8F0;
+}
+
+.text-color-smoke-gray {
+    color: #888888;
+}
+
+.bg-color-smoke-gray {
+    background-color: #888888;
+}
+
+.kaushan-script-regular {
+  font-family: "Kaushan Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
