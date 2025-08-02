@@ -14,6 +14,8 @@ Este projeto é uma landing page desenvolvida com **Tailwind CSS**, com foco em 
 - HTML 5
 - CSS 3
 
+Veja o projeto final aqui [https://lelisgustavo.github.io/Lelis-Shark-Book-Store/src/index.html]
+
 ---
 
 # 🦈📚 Project: Lélis Shark Book Store 📚🦈
@@ -32,6 +34,8 @@ This project is a landing page developed with **Tailwind CSS**, with a focus on 
 - HTML 5
 - CSS 3
 
+See the final project here [https://lelisgustavo.github.io/Lelis-Shark-Book-Store/src/index.html]
+
 ---
 
 # 🦈📚 Proyecto: Librería Lélis Shark 📚🦈
@@ -49,3 +53,5 @@ Este proyecto consiste en una landing page desarrollada con **Tailwind CSS**, co
 - Tailwind CSS
 - HTML5
 - CSS 3
+
+Vea el proyecto final aquí [https://lelisgustavo.github.io/Lelis-Shark-Book-Store/src/index.html]
