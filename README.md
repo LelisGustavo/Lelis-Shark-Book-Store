@@ -44,12 +44,12 @@ Este proyecto consiste en una landing page desarrollada con **Tailwind CSS**, co
 
 🛠️ Tecnologías utilizadas
 
----
-
-![Prévia da interface](./screenshot.png)
-
 - Tailwind CSS
 - HTML5
 - CSS 3
 
 Vea el proyecto final aquí [https://lelisgustavo.github.io/Lelis-Shark-Book-Store/src/index.html]
+
+---
+
+![Interface Preview](./screenshot.png)
